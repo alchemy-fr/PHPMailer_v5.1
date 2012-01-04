@@ -1,11 +1,4 @@
 {
   "name": "php-mailer",
   "version": "5.1",
-  "repositories": {
-        "phpmailer": {
-            "vcs": {
-                "url": "git://github.com/alchemy-fr/PHPMailer_v5.1.git"
-            }
-        }
-    }
 }
