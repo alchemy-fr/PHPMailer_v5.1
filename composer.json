@@ -1,4 +1,7 @@
 {
   "name": "alchemy/phpmailer",
-  "version": "master"
+  "version": "master",
+  "autoload": {
+    "classmap": ["./"]
+  }
 }
